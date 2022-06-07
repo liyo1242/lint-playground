@@ -1,7 +1,7 @@
 'use strict';
 
 const allRules = [
-
+  'bad-word-component': require('./lib/rules/bad-word-component')
 ]
 
 module.exports = {
